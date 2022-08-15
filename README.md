@@ -1,6 +1,6 @@
 # Python Package Template
 
-A template for creating python packages @ we are.
+A template for creating python packages @ [we are](https://we-are.be?utm_source=github).
 
 ## Introduction
 
