@@ -16,7 +16,7 @@ requirements:
 .PHONY: install
 install:
 	python -m pip install --upgrade pip
-	pip install -U pytest
+	pip install -U pytest flake8
 	pip install -r requirements.txt
 
 .PHONY: virtualenv
