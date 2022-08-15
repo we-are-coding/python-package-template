@@ -15,6 +15,7 @@ requirements:
 
 .PHONY: install
 install:
+	pip install -U pytest
 	pip install -r requirements.txt
 
 .PHONY: virtualenv
